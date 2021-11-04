@@ -8,7 +8,7 @@ This repository is to store all files related to Learning content. This is where
 - **Module** - a basic consumble unit of foundational, technical, or advance implentation/Product learning 
 - **Use Case** - a scenario that demonstrates real life implementations, typically utilizes multiple skills
 - **Lab** - an interactive activity and typically has hands on action about a topic to re-inforce a particular learning objectives
-- **tags** - a collection of tags describing the course content, leveraged in moment of need and search of a specific topic
+- **Tags** - a collection of tags describing the course content, leveraged in moment of need and search of a specific topic
 
 ## 🔱 The Zen of the Learning Content Repository
 
@@ -50,7 +50,48 @@ In addition to the README you're reading right now, this repo includes other REA
 ```diff
 + Logically align the path(s) based on Persona and Job skill research work done in parallel to this process
 ```
-![](assets/process.png)
+
+![Workflow Diagram](https://lucid.app/publicSegments/view/4c9dfa4c-6124-4f0d-a8ec-29a98f351776/image.png)
+
+## 🚧 Repository Workflow
+
+As we attempt to build a lean-agile workflow for course development, a large part of being able to plan, develop, and maintain the various elements that make up a learning path requires a standardized process that is consistent and efficient. Using a Version Control System (VCS) like Github, enables multiple individuals to work on course content in an efficient manner and provides a platform for easy progress tracking of various parts of a project.
+
+This section assumes that the contributor is familiar with Git and GitOps. There are many tools available to utilize Git(e.g. vscode, git-gui, GitHub Desktop, etc.). Although using Git in the command line is not required, the instructions below will provide Git command lie examples as this is the simplest and most universal method.
+
+This section will evolve as we refine our process. The steps below are provisional and are subject to change.
+
+![Workflow Diagram](https://lucid.app/publicSegments/view/85fcb269-4b79-4b40-a134-d6322bde8295/image.png)
+
+1. As new work is done a new branch must be created. No direct changes should be done or committed on the `main` branch.
+
+   - The branch should follow the following name conventions:
+
+      `<Vendor Acronym>/<CCO ID or Username>-<brief_description>-<Date of creation using the YYYYMMDD format>`
+
+      Examples:
+
+      `Cisco/toroman-Update_to_Workflow-20211101`
+      `NIIT/bob-Intro_to_NA-20211106`
+
+   - To create a new branch is the following command line git commands:
+
+      ```shell
+      git checkout -b <NEW BRANCH NAME>
+      git push --set-upstream origin <NEW BRANCH NAME>
+      ```
+
+2. Once the changes have be made and committed in the local repository push your changes to this remote repository.
+
+      ```shell
+      git push
+      ```
+
+3. To add your changes to the main branch, you will need to create a pull request. This will be done on the remote GitHub repository. Click this link to take you to the [Cisco-Learning/Network-Automation-Engineer-Core Pull Requests](https://github.com/Cisco-Learning/Network-Automation-Engineer-Core/pulls). If you have already pushed your content to your remote branch you will see a button that says `Compare & pull request` (be sure this is your branch). Click the appropriate button to initiate the pull request, also called a "PR".
+
+    ![Screenshot of Github PR](assets/workflow_step3_pr.png)
+
+4. Once the PR has been reviewed, feedback will be presented on the pull request and it will be the requestors responsibility to make the required changes based on this feedback. Once the pull request has been approved, the branch will be `Squashed & Merged`.
 
 ## 💡 Resources and Tools
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
