@@ -1,3 +1,6 @@
-# Use Cases
+# ℹ️ Use Cases Definition
 
-In this directory you will find all associated use cases with each one represented by an appropriatly named directory constructed from a copy of the provided template.
+Leverage this directory to define Use Cases related to course
+
+**Use Cases** are real world scenarios pretaining to the course at hand 
+

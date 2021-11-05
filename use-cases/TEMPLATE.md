@@ -8,22 +8,17 @@
 
 <Foundational, Technical, or Product / Advanced Technology or Implementation>
 
-## 💡 Learning Objective
+## 🧪 Lab Requirements 
 
-<Outcome that a student is expected to learn or achieve at the end of a specific module of learning>
+<This use case will requires this set of dependencies listed>
 
-## 📘 Skills Learned
-
-<The skills the student should have gained by successfully completing this use case>
-
-## 🗿 Related Modules
-
-* [<Description>](<URL>)
-* [<Description>](<URL>)
-* etc...
+1. Terminal Access with ssh into ios-xe device
+2. Linux env, libraries requires:
+    - Docker
+    - Python 3.10
 
 ## 🔧 Technical Resources
-
+<Any related technical resources available to help build this use-case
 * [<Description>](<URL>)
 * [<Description>](<URL>)
 * etc...
