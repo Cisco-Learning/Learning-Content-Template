@@ -1,14 +1,14 @@
-# <Title>
+# < Title >
 
-## Learning Objective
+## 🎓 Learning Objective
 
 <Outcome that a student is expected to learn or achieve at the end of a specific module of learning>
 
-## Skill level
+## 📌 Skill Level
 
 <Foundational, Technical, or Product / Advanced Technology or Implementation>
 
-## Content Outline
+## 📖 Content Outline
 
 * [<Description>](<URL>)
 * [<Description>](<URL>)
@@ -16,21 +16,13 @@
 
 ---
 
-## Learning Prerequisites
+## ⬆️ Learning Prerequisites
 
 * [<Description>](<URL>)
 * [<Description>](<URL>)
 * etc...
 
-## Learning Dependents
-
-* [<Description>](<URL>)
-* [<Description>](<URL>)
-* etc...
-
----
-
-## Technical Resources
+## ⬇️ Learning Dependents
 
 * [<Description>](<URL>)
 * [<Description>](<URL>)
@@ -38,12 +30,18 @@
 
 ---
 
-## Content Tags
+## 📚 Technical Resources
+
+* [<Description>](<URL>)
+* [<Description>](<URL>)
+* etc...
+
+---
+
+## 📣 Content Tags
 
 * <Tag>
 * <Tag>
 * etc...
 
 ---
-
-Back to [Network Engineer Path](../../network-automation-engineer-core-path)
