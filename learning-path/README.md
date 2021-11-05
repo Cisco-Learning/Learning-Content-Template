@@ -1,5 +1,3 @@
-# Learning Path
+# Learning Paths
 
-FIXME: Needs explanation and requirements
-
-***Note:*** Each learning path is a directory
+In this directory you will find all associated Learning Paths with each one represented by an appropriatly named directory constructed from a copy of the provided template.
