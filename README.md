@@ -51,7 +51,7 @@ In addition to the README you're reading right now, this repo includes other REA
 + Logically align the path(s) based on Persona and Job skill research work done in parallel to this process
 ```
 
-![Workflow Diagram](https://lucid.app/publicSegments/view/4c9dfa4c-6124-4f0d-a8ec-29a98f351776/image.png)
+![Content Workflow Diagram](https://lucid.app/publicSegments/view/4c9dfa4c-6124-4f0d-a8ec-29a98f351776/image.png)
 
 ## 🚧 Repository Workflow
 
@@ -61,7 +61,7 @@ This section assumes that the contributor is familiar with Git and GitOps. There
 
 This section will evolve as we refine our process. The steps below are provisional and are subject to change.
 
-![Workflow Diagram](https://lucid.app/publicSegments/view/85fcb269-4b79-4b40-a134-d6322bde8295/image.png)
+![Repository Workflow Diagram](https://lucid.app/publicSegments/view/d57c0107-249c-4225-8898-addea7d9de31/image.png)
 
 1. As new work is done a new branch must be created. No direct changes should be done or committed on the `main` branch.
 
