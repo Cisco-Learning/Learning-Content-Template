@@ -1,47 +1,41 @@
-# < Title >
+# < Module Title >
 
 ## 🎓 Learning Objective
 
-<Outcome that a student is expected to learn or achieve at the end of a specific module of learning>
+`Outcome that a student is expected to learn or achieve at the end of a specific module of learning`
 
 ## 📌 Skill Level
 
-<Foundational, Technical, or Product / Advanced Technology or Implementation>
+`Foundational, Technical, or Product / Advanced Technology or Implementation`
 
 ## 📖 Content Outline
 
-* [<Description>](<URL>)
-* [<Description>](<URL>)
+* [Outline](<URL>)
+* [Outline](<URL>)
 * etc...
-
----
 
 ## ⬆️ Learning Prerequisites
 
-* [<Description>](<URL>)
-* [<Description>](<URL>)
+* [Prerequisite](URL)
+* [Prerequisite](URL)
 * etc...
 
-## ⬇️ Learning Dependents
+## ⬇️ Learning Dependency
 
-* [<Description>](<URL>)
-* [<Description>](<URL>)
+* [Dependency](URL)
+* [Dependency](URL)
 * etc...
-
----
 
 ## 📚 Technical Resources
 
-* [<Description>](<URL>)
-* [<Description>](<URL>)
+* [Resources](URL)
+* [Resources](URL)
 * etc...
 
----
+## 📣 Module Specific Tags
 
-## 📣 Content Tags
-
-* <Tag>
-* <Tag>
+* Tag-1
+* Tag-2
 * etc...
 
----
+

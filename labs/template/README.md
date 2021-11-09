@@ -1,41 +1,28 @@
-# Lab: < Title >
+# 🩺 Lab - `Title Here`
 
-## 🎓 Learning Objective
+## 📖 Lab Scenario
 
-<Outcome that a student is expected to learn or achieve at the end of a specific module of learning>
+`Story that is presented to the student explaining what the issue is and what is trying to be resolved`
 
-## 📌 Skill Level
+## 📐 Skill Level
 
-<Foundational, Technical, or Product / Advanced Technology or Implementation>
+`Foundational, Technical, or Product / Advanced Technology or Implementation`
 
-## 📖 Content Outline
+## 🧪 Lab Requirements 
 
-* [<Description>](<URL>)
-* [<Description>](<URL>)
+`This use case will requires this set of dependencies listed, example below:`
+
+1. Terminal Access with ssh into ios-xe device
+2. Linux env, libraries requires:
+    - Docker
+    - Python 3.10
+
+## 🔧 Technical Resources
+`Link to any related technical resources available to help build this lab: existing labs, ELT or ILT`
+* [Description](URL)
+* [Description](URL)
 * etc...
 
----
 
-## ⬆️  Learning Prerequisites
-
-* [<Description>](<URL>)
-* [<Description>](<URL>)
-* etc...
-
----
-
-## 📚 Technical Resources
-
-* [<Description>](<URL>)
-* [<Description>](<URL>)
-* etc...
-
----
-
-## 📣 Content Tags
-
-* <Tag>
-* <Tag>
-* etc...
 
 ---
