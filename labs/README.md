@@ -4,7 +4,7 @@ Leverage the `template` directory to define labs
 
 **labs** are micro learning content providing learners with hands on experience of what's being taught
 
-# ☑️ Steps to define labs 
+## ☑️ Steps to define labs 
 
 1. Duplicate the `template` directory for each use case defined
    * Label *newly duplicated* directory with a shortened version of the use case's title.

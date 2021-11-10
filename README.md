@@ -96,4 +96,4 @@ This section will evolve as we refine our process. The steps below are provision
 ## 💡 Resources and Tools
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Quick Introduction to Git](https://gitimmersion.com/)
-
+- [Markdown Editing with Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)

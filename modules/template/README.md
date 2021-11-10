@@ -8,11 +8,20 @@
 
 `Foundational, Technical, or Product / Advanced Technology or Implementation`
 
-## 📖 Content Outline
+## 📖 Module Outline
+`Expand on topics defined in the course outline for the module`
+* #### 🔸 `topic - 1`
+> topic-1 should cover content around :
+> - subtopic-X
+> - subtopic-Y
+> - subtopic-Z
+* #### 🔸 `topic - 2`
+> topic-2 should cover content around :
+> - subtopic-A
+> - subtopic-B
+> - subtopic-C
 
-* [Outline](<URL>)
-* [Outline](<URL>)
-* etc...
+etc..
 
 ## ⬆️ Learning Prerequisites
 
