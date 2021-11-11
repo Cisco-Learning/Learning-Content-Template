@@ -22,7 +22,7 @@
 ![Learning Path Diagram](https://lucid.app/publicSegments/view/e61650b0-4150-47fc-80db-32d01f6fa1ca/image.png)
 
 #### LucidCharts Template below can be found [here](https://lucid.app/lucidchart/5e845bbc-0e45-4754-8a44-2afd5cc07cf4/edit?invitationId=inv_cd8d818d-ced3-4031-894f-f59ea4db8d97)
-![Learning Path Diagram](https://lucid.app/publicSegments/view/57444237-f21a-484a-b7fe-4a826255987c/image.png)
+![Learning Path Diagram](https://lucid.app/publicSegments/view/956e6570-5e79-4c47-87ba-a26c87970a1c/image.png)
 
 **⚠️ Do not edit templates directly, make a copy of it first and edit cloned copy**
 
