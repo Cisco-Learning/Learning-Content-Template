@@ -63,7 +63,11 @@ This section will evolve as we refine our process. The steps below are provision
 
 ![Repository Workflow Diagram](https://lucid.app/publicSegments/view/d57c0107-249c-4225-8898-addea7d9de31/image.png)
 
-1. As new work is done a new branch must be created. No direct changes should be done or committed on the `main` branch.
+### Basic Workflow Guidelines
+
+1. Jira ticket is assigned or created for the work.
+
+2. As new work is done a new branch must be created. No direct changes should be done or committed on the `main` branch.
 
    - The branch should follow the following name conventions:
 
@@ -74,7 +78,7 @@ This section will evolve as we refine our process. The steps below are provision
       `Cisco/toroman-Update_to_Workflow-20211101`
       `NIIT/bob-Intro_to_NA-20211106`
 
-   - To create a new branch is the following command line git commands:
+   - To create a new branch is the following command line Git commands:
 
       ```shell
       git checkout -b <NEW BRANCH NAME>
@@ -84,14 +88,19 @@ This section will evolve as we refine our process. The steps below are provision
 2. Once the changes have be made and committed in the local repository push your changes to this remote repository.
 
       ```shell
+      git commit -a
       git push
       ```
 
-3. To add your changes to the main branch, you will need to create a pull request. This will be done on the remote GitHub repository. Click this link to take you to the [Cisco-Learning/Network-Automation-Engineer-Core Pull Requests](https://github.com/Cisco-Learning/Network-Automation-Engineer-Core/pulls). If you have already pushed your content to your remote branch you will see a button that says `Compare & pull request` (be sure this is your branch). Click the appropriate button to initiate the pull request, also called a "PR".
+3. To incorporate the changes to the main branch, you will need to create a pull request. This will be done on the GitHub repository website in the [Pull Requests](https://github.com/Cisco-Learning/Network-Automation-Engineer-Core/pulls) area of the repository. If you have already pushed your content to your remote branch you will see a button that says `Compare & pull request` (be sure this is the pushed branch). Click the appropriate button to initiate the pull request, also called a "PR".  Merging to `main` branch is typically done by the approver of the pull request.
 
     ![Screenshot of Github PR](assets/workflow_step3_pr.png)
 
-4. Once the PR has been reviewed, feedback will be presented on the pull request and it will be the requestors responsibility to make the required changes based on this feedback. Once the pull request has been approved, the branch will be `Squashed & Merged`.
+4. Move Jira ticket to `Review` status and assign to the appropriate reviewer.
+
+5. Once the PR has been reviewed, feedback will be presented on the pull request and it will be the requestors responsibility to make the required changes based on this feedback. Once the pull request has been approved, the branch will be `Squashed & Merged` and then deleted.
+
+6. Move Jira ticket to the next status in the workflow.
 
 ## 💡 Resources and Tools
 - [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
