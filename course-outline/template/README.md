@@ -8,16 +8,16 @@
 ## 🖌 Course outline:
 ### 📝 `Module-1 Title Here`
 **Learning Intent:** `Describe the learning objective of this module here`
-#### 🔸 `topic - 1`
-#### 🔸 `topic - 2`
+- `topic - 1`
+- `topic - 2`
 
 ---
 
 ### 📝 `Module - 2 Title Here`
 **Learning Intent:** `Describe the learning objective of this module here`
-#### 🔸 `topic - 1`
-#### 🔸 `topic - 2`
-#### 🔸 `topic - 3`
+- `topic - 1`
+- `topic - 2`
+- `topic - 3`
 
 ---
 etc...

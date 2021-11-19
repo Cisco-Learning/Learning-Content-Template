@@ -17,6 +17,13 @@
     - Docker
     - Python 3.10
 
+## ⬇️ Lab Dependency
+`Link to related labs`
+* [Description](URL)
+* [Description](URL)
+* etc...
+
+
 ## 🔧 Technical Resources
 `Link to any related technical resources available to help build this lab: existing labs, ELT or ILT`
 * [Description](URL)
