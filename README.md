@@ -1,13 +1,13 @@
 ## 📔 Learning Content
 
-This repository is to store all files related to Learning content. This is where we house, maintain, and collaborate on the Apollo learning courses. In this README file we will explain how the Learning_Content repository is orgainized and some of the standards that are in place to keep this repository clean and organized.
+This repository is to store all files related to Learning content. This is where we house, maintain, and collaborate on the Apollo learning courses. In this README file we will explain how the Learning_Content repository is organized and some standards that are in place to keep this repository clean and organized.
 
 ## ℹ️  Definitions
 
 - **Learning Path** - a learning path is a collection of modules
-- **Module** - a basic consumble unit of foundational, technical, or advance implentation/Product learning 
+- **Module** - a basic consumable unit of foundational, technical, or advance implementation/Product learning 
 - **Use Case** - a scenario that demonstrates real life implementations, typically utilizes multiple skills
-- **Lab** - an interactive activity and typically has hands on action about a topic to re-inforce a particular learning objectives
+- **Lab** - an interactive activity and typically has hands on action about a topic to reinforce a particular learning objectives
 - **Tags** - a collection of tags describing the course content, leveraged in moment of need and search of a specific topic
 
 ## 🔱 The Zen of the Learning Content Repository
@@ -21,13 +21,13 @@ This repository is to store all files related to Learning content. This is where
 
 - `<ROOT FOLDER>` - This is the main repo name, which contains subdirectories (defined below), `Root folder` is the same name as the repo which is labeled after the learning content being created.
 - `assessments` - This is where skill assessments/quizzes related to job skills or course specific skills are defined.
-- `assets` - Use this subdirectory to house any assets related to content, diagrams, images .. etc
+- `assets` - Use this subdirectory to house any assets related to content, diagrams, images… etc
 - `course-outline` This subdirectory is used to define the course outline, template included.
 - `labs` - This subdirectory where `hands on labs` related to the learning content is defined. This is also treated as a standalone module when building a learning path.
 - `learning-path`- This subdirectory contains work related to defining a learning path from the `modules` defined for the course.
 - `modules` - This subdirectory contains the `micro learning` portions of the course content, this is derived from the course outline and expanded upon in details.
 - `tags` - This is where we will define content related tags in `JSON` format, this will be leveraged when locating and searching for content in `Ti`.
-- `use-cases` - This is where related, real world scenarios are defined and built, `Use Cases` are typically used within a learning path or standalone offering outside of the course content.
+- `use-cases` - This is where related, real world scenarios are defined and built, `Use Cases` are typically used within a learning path or standalone offering outside the course content.
 - `README.md` - This is the main README.md within the repo, this is where the course outline is defined and saved - see a course outline example here.
  
 ## 〽️  READMEs
@@ -55,7 +55,7 @@ In addition to the README you're reading right now, this repo includes other REA
 
 ## 🚧 Repository Workflow
 
-As we attempt to build a lean-agile workflow for course development, a large part of being able to plan, develop, and maintain the various elements that make up a learning path requires a standardized process that is consistent and efficient. Using a Version Control System (VCS) like Github, enables multiple individuals to work on course content in an efficient manner and provides a platform for easy progress tracking of various parts of a project.
+As we attempt to build a lean-agile workflow for course development, a large part of being able to plan, develop, and maintain the various elements that make up a learning path requires a standardized process that is consistent and efficient. Using a Version Control System (VCS) like GitHub, enables multiple individuals to work on course content in an efficient manner and provides a platform for easy progress tracking of various parts of a project.
 
 This section assumes that the contributor is familiar with Git and GitOps. There are many tools available to utilize Git(e.g. vscode, git-gui, GitHub Desktop, etc.). Although using Git in the command line is not required, the instructions below will provide Git command lie examples as this is the simplest and most universal method.
 
@@ -98,7 +98,7 @@ This section will evolve as we refine our process. The steps below are provision
 
 4. Move Jira ticket to `Review` status and assign to the appropriate reviewer.
 
-5. Once the PR has been reviewed, feedback will be presented on the pull request and it will be the requestors responsibility to make the required changes based on this feedback. Once the pull request has been approved, the branch will be `Squashed & Merged` and then deleted.
+5. Once the PR has been reviewed, feedback will be presented on the pull request, and it will be the requesters' responsibility to make the required changes based on this feedback. Once the pull request has been approved, the branch will be `Squashed & Merged` and then deleted.
 
 6. Move Jira ticket to the next status in the workflow.
 
