@@ -4,9 +4,9 @@ Leverage the `template` directory to define the courses that are defined
 
 **Courses** are derived from the [course outline](../course-outline/template/README.md) and expanded upon
 
-# ☑️  Steps to define Modules 
+# ☑️  Steps to define Courses 
 
-1. Duplicate the `template` directory for each course in the course outline 
+1. Duplicate the `template` directory for each course in the course outline
    * Label *newly duplicated* directory with a shortened version of the course's title.
    * use the [README.md](./template/README.md) file in the *newly created template* folder to define the course.
 2. Leverage the [assets](./template/assets) directory for any course related assets (network topology, png, gif… etc)
